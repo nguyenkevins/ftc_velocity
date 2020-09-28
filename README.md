@@ -1,2 +1,2 @@
-# ftc_velocity
+# FIRST Tech Challenge - Velocity Vortex
  
